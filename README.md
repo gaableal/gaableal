@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel 🖐️
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=gaableal&show_icons=true&theme=dracula&count_private=true)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=gaableal&show_icons=true&theme=dracula&count_private=true) locale=pt-br
 
 ## Tecnologias que estou aprendendo
 
